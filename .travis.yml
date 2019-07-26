@@ -5,4 +5,4 @@ os:
   - linux-ppc64le
   - osx
 
-script: sh script.sh
+script: ./script.sh

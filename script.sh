@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo $HOSTTYPE
+echo $TRAVIS_OS_NAME

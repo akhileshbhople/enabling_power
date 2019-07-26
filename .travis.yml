@@ -1,0 +1,8 @@
+language: minimal
+
+os:
+  - linux
+  - linux-ppc64le
+  - osx
+
+script: sh script.sh

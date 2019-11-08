@@ -4,4 +4,4 @@ os: linux
 
 arch: ppc64le
 
-script: echo $arch
+script: arch

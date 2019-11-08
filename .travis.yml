@@ -1,8 +1,7 @@
 language: minimal
 
-os:
-  - linux
-  - linux-ppc64le
-  - osx
+os: linux
 
-script: bash script.sh
+arch: ppc64le
+
+script: echo $arch
